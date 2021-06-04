@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="68.183.3.105" id="80bb54fc-eb15-4f39-9b1d-c2dbdd14369d" keyPath="$USER_HOME$/.ssh/brokerchooser" port="20262" customName="BC-server-dev" nameFormat="CUSTOM" username="forge">
+        <option name="customName" value="BC-server-dev" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
